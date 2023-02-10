@@ -22,3 +22,9 @@ cd Path_To_File/
 chmod +x script.sh"
 ./script.sh
 </pre>
+
+#### Questão 12
+- O link para o aplicativo está fora do ar atualmente. A não entrega desta questão já está alinhada.
+
+#### Questão 13
+- O link para o aplicativo está fora do ar atualmente. A não entrega desta questão já está alinhada.
