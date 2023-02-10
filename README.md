@@ -4,13 +4,26 @@
 
 #### Questão 10
 
-1. Descompacte o arquivo **Questao_10.rar**.
-2. Abra o terminal e acesse o diretório **/bin** dentro do diretório do **JMeter**.
+1. Use o **JMeter** para abrir o aquivo **Produto_API**.jmx**
+2. Após o projeto ser carregado, execute-o através do botão de start da aplicação.
+3. Os resultados da execução podem ser vistos em **Árvore de Resultados**.
+4. Caso opte pela execução por CLI, execute os comandos abaixo:
 <pre>
-
-2. Para o projeto criado em "Questao_10", utilize o "JMeter" para executá-lo. Execute o comando abaixo para gerar um relatório de execução do teste:
-<pre>
+cd <your_path_to_jmeter>/bin
+</pre>
 jmeter -n -t "<your_path>/Produto_API.jmx" -l "<your_path>/Resultado.jtl" -e -o "<your_path>/Relatório"
 </pre>
-3. O relatório de execução pode ser encontrado em **Relatório/**
-3. Para o arquivo "script.sh" existente dentro de "Qestao_11", execute o comando "chmod +x script.sh" e em seguida "./script.sh". 
+5. Após a execução do comando, os resultados podem ser encontrados em **/Relatório/index** e pode ser aberto em qualquer browser.
+
+#### Questão 11
+1. Use o arquivo **script.sh** para esta questão.
+2. Execute os comandos abaixo:
+<pre>
+cd <your_path_to_file>/
+</pre>
+<pre>
+chmod +x script.sh"
+</pre>
+<pre>
+./script.sh
+</pre>
