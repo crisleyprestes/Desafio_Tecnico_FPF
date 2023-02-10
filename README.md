@@ -9,10 +9,10 @@
 3. Os resultados da execução podem ser vistos em **_Árvore de Resultados_**.
 4. Caso opte pela execução por CLI, execute os comandos abaixo:
 <pre>
-cd your_path_to_jmeter/bin
+cd Path_To_JMeter/bin
 </pre>
 <pre>
-jmeter -n -t "your_path/Produto_API.jmx" -l "your_path/Resultado.jtl" -e -o "your_path/Relatório"
+jmeter -n -t "Path_To_File/Produto_API.jmx" -l "Path_To_File/Resultado.jtl" -e -o "Path_To_File/Relatório"
 </pre>
 5. Após a execução do comando, os resultados podem ser encontrados em **_/Relatório/index_** e pode ser aberto em qualquer browser.
 
@@ -20,7 +20,7 @@ jmeter -n -t "your_path/Produto_API.jmx" -l "your_path/Resultado.jtl" -e -o "you
 1. Use o arquivo **_script.sh_** para esta questão.
 2. Execute os comandos abaixo:
 <pre>
-cd your_path_to_file/
+cd Path_To_File/
 </pre>
 <pre>
 chmod +x script.sh"
