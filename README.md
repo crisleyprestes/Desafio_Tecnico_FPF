@@ -25,8 +25,8 @@ chmod +x script.sh"
 
 #### Questão 12
 - O link para o aplicativo está fora do ar atualmente. A não entrega desta questão já está alinhada.
-![Questão 12](/Questão_12.png)
+![Questão 12](/Desafio_Tecnico_FPF/blob/main/Questão_12.PNG)
 
 #### Questão 13
 - O link para o aplicativo está fora do ar atualmente. A não entrega desta questão já está alinhada.
-![Questão 13](/Questão_13.png)
+![Questão 13](/Desafio_Tecnico_FPF/blob/main/Questão_13.PNG)
