@@ -12,7 +12,7 @@
 
 #### Questão 10:
 
-- Solução disponívem em: https://github.com/crisleyprestes/Desafio_Tecnico_FPF/blob/main/Produto_API.jmx
+- Solução disponível em: https://github.com/crisleyprestes/Desafio_Tecnico_FPF/blob/main/Produto_API.jmx
 
 - Use o **_JMeter_** para abrir o aquivo **_Produto_API.jmx_**
 - Após o projeto ser carregado, execute-o através do botão de start da aplicação.
@@ -28,7 +28,7 @@ jmeter -n -t "path_to_file/Produto_API.jmx" -l "path_to_file/Resultado.jtl" -e -
 
 #### Questão 11:
 
-- Solução disponívem em: https://github.com/crisleyprestes/Desafio_Tecnico_FPF/blob/main/script.sh
+- Solução disponível em: https://github.com/crisleyprestes/Desafio_Tecnico_FPF/blob/main/script.sh
 
 - Use o arquivo **_script.sh_** para esta questão.
 - Execute os comandos abaixo:
