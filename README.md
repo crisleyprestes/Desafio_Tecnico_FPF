@@ -31,7 +31,7 @@
 - Solução disponível em: https://github.com/crisleyprestes/Desafio_Tecnico_FPF/blob/main/script.sh
 
   - Use o arquivo **_script.sh_** para esta questão.
-  - Execute os comandos abaixo:
+  - Execute os comandos abaixo no CLI:
     <pre>
       cd path_to_file/
     </pre>
